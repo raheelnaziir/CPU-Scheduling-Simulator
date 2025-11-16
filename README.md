@@ -10,8 +10,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Example](#example)
-- [Contributing](#contributing)
-- [YouTube Video](#youtube_video)
 
 ## Overview
 
